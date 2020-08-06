@@ -42,7 +42,7 @@ Identify the the top 5 spenders in the game by total purchase value, then list (
 - Total Purchase Value
 
 ### Most Popular Items
-- Identify the 5 most popular items by purchase count, then list (in a table):
+Identify the 5 most popular items by purchase count, then list (in a table):
 - Item ID
 - Item Name
 - Purchase Count
